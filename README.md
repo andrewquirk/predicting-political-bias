@@ -1,8 +1,6 @@
 # predicting-political-bias
 
-Sentiment analysis bias extraction of news articles related to American politics. 
-
-The goal is to provide an easy and reasonable metric for bias, in order to provide some context for the average reader to consider when consuming media. Many political science academics are concerned that the aggressive partisanship in American politics creates a poor environment for cooperation and progress, and our goal was to develop a methodology for improving transparency.
+The goal was to provide an easy and reasonable metric for the political bias of an article, in order to provide some context for the average reader to consider when consuming media. We created word embeddings using transcripts from Congressional speeches as a training set and tested on popular news articles.  We found that biases with sources like Breitbart and CNN were confirmed, but also that articles about certain topics tend to have political bias (i.e. articles about 'Food' are usually classified as Democrat and articles about 'Money' are classified as Republican).
 
 ### See the final paper: predicting-bias-final-paper.pdf
 
