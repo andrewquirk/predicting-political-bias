@@ -8,4 +8,6 @@ The goal is to provide an easy and reasonable metric for bias, in order to provi
 
 Final score on paper: 10/10. 
 
+Class Average: 9.5/10
+
 Final score in class: A+, 100%
