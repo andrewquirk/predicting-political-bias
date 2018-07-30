@@ -7,4 +7,5 @@ The goal is to provide an easy and reasonable metric for bias, in order to provi
 ### See the final paper: predicting-bias-final-paper.pdf
 
 Final score on paper: 10/10. 
+
 Final score in class: A+, 100%
