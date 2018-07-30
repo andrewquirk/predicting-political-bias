@@ -10,4 +10,4 @@ Final score on paper: 10/10.
 
 Class Average: 9.5/10
 
-Final score in class: A+, 100%
+Final score in class: A+, 100.0%
